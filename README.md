@@ -22,7 +22,7 @@ pip install -r requirements.txt
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Pusula_Name_Surname
+   cd Pusula_Kadir_Ortac
    ```
 3. Open and run the Jupyter Notebook `project.ipynb` to see the complete analysis.
 
@@ -30,6 +30,3 @@ pip install -r requirements.txt
 - **Name:** Kadir Ortaç
 - **Email:** kadirortacdev@gmail.com
 
-
-
-#
